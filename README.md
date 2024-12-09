@@ -1,7 +1,7 @@
 ### Hi there 👋
-# Bem-vindo ao Meu Repositório de Mestrado em Programação! 🎓💻
+# Bem-vindo ao Meu Repositório do meu Mestrado em Informática! 🎓💻
 
-Olá! Seja bem-vindo ao meu repositório de mestrado em programação na Universidade Federal do Rio de Janeiro (UFRJ). Este é o lugar onde vou documentar minha jornada, projetos e descobertas enquanto mergulho fundo no mundo da programação.
+Olá! Seja bem-vindo ao meu repositório de mestrado na Universidade Federal do Rio de Janeiro (UFRJ). Este é o lugar onde vou documentar minha jornada, projetos e descobertas enquanto mergulho fundo no mundo da programação.
 
 ## 📚 Sobre Mim
 
@@ -9,7 +9,7 @@ Sou Raphael, um entusiasta da tecnologia apaixonado por programação. Atualment
 
 ## 🎯 Objetivos
 
-- Aprofundar meu conhecimento em linguagens de programação como Python, Java e C++.
+- Aprofundar meu conhecimento em linguagens de programação como Julia, Python, Java, C++, Rust, Go, etc, etc, etc...
 - Explorar tópicos avançados em ciência da computação, como inteligência artificial, computação gráfica e sistemas distribuídos.
 - Contribuir para projetos de código aberto e participar ativamente da comunidade de desenvolvedores.
 
